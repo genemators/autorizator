@@ -78,7 +78,7 @@
     "*.js": ["prettier --semi false --print-width 120 --single-quote --trailing-comma all --write", "git add"]
   },
   "bugs": {
-    "url": "https://github.com/tutts/es6-express-mongoose-passport-rest-api/issues"
+    "url": "https://github.com/genemators/autorizator/issues"
   },
-  "homepage": "https://github.com/tutts/es6-express-mongoose-passport-rest-api/#readme"
+  "homepage": "https://github.com/genemators/autorizator/#readme"
 }
