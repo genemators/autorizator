@@ -34,7 +34,7 @@ npm install -g yarn
 Pull down the repository
 
 ```
-git clone https://github.com/tutts/node-es6-express-mongoose-passport
+git clone https://github.com/genemators/autorizator
 ```
 
 Run yarn in the root of your project to install its dependencies
@@ -82,9 +82,3 @@ yarn lint
 yarn lint:watch
 yarn lint:fix // attempts to fix your lint issues for you
 ```
-
-
-## Todo
-- [ ] add dotenv
-
-Inspired by [KunalKapadia](https://github.com/KunalKapadia/express-mongoose-es6-rest-api) and  [Developit](https://github.com/developit/express-es6-rest-api)
