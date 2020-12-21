@@ -1,7 +1,7 @@
 FROM alpine:3.4
 
 # File Author / Maintainer
-LABEL authors="Sam Tutton <samueltutton@gmail.com>"
+LABEL authors="Genemator Sakhib <genemators@gmail.com> (https://genemator.me)"
 
 # Update & install required packages
 RUN apk add --update nodejs bash git
